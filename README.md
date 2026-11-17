@@ -1,5 +1,6 @@
 # QMT 策略编写规范 V1.1（请使用最新的版本号）
 ## powered by 宁尚拙（QQ：798623）
+使用的说明 https://www.bilibili.com/video/BV1Nqsr6xEYQ/
 ## 版本记录
 
 | 版本   | 日期         | 变更                                                                                                               |
