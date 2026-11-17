@@ -10,7 +10,7 @@
 
 > **让 AI 和不同开发者，按同一套骨架写出结构一致、行为可预期、可复盘的 QMT 实盘策略。**
 
-📄 **[⬇ 下载《策略编写规范V1.0.md》](策略编写规范V1.0.md)** —— 单文件，Markdown 格式，无需任何依赖，可直接用 VS Code / Typora / Obsidian 等任意编辑器查看。
+📄 **[[⬇ 下载《策略编写规范V1.0.md》](策略编写规范V1.0.md)](https://github.com/nobodysniper18/qmt-ningshangzhuo/blob/main/%E7%AD%96%E7%95%A5%E7%BC%96%E5%86%99%E8%A7%84%E8%8C%83V1.1.md)** —— 单文件，Markdown 格式，无需任何依赖，可直接用 VS Code / Typora / Obsidian 等任意编辑器查看。
 
 面向 **大 QMT（迅投 XTP）模型交易 / 策略交易环境** 的 Python 买入型策略编写规范。它不是教程，是**契约（Contract）**。
 
